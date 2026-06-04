@@ -4,7 +4,7 @@ Contributors: pewilliams
 Requires at least: 6.1
 Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 2.3
+Stable tag: 2.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, education, photography, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, template-editing, footer-widgets, custom-header, translation-ready
@@ -138,47 +138,22 @@ Online Library is distributed under the terms of the GNU GPL
 
 == Changelog ==
 
-= 1.0 =
-* Initial version release.
+= 2.3.1 =
+* Updated Theme Functions.
 
-= 1.1 =
-* Added getstart.
-* Added customizer.
-* Added footer link.
-* Added buy now button in menus.
+= 2.3 =
+* Updated Theme.= 2.2 =
+* Added Admin Bar Function.
+* Updated Description.
 
-= 1.2 =
-* Resolved css bugs in inner pages.
-* Added animation to inner shop page image.
-* Updated the theme bundle text. 
-* In templates added blank page.
+= 2.1 =
+* Updated Version.
 
-= 1.3 =
-* Changed Description.
+= 2.0 =
+* Updated Plugin Installation Step.
 
-= 1.4 =
-* Resolved css bugs.
-* Added hover effect on single post image.
-* Added blog listing template.
-* In sidebar added page block.
-* Set the inner pages in container.
-
-= 1.5 = 
-* Added single page no sidebar template.
-* Added single post sidebar on left template.
-* Added animation to front page.
-* Added hover effect on sidebar blogs.
-* Updated pot file.
-
-= 1.6 =
-* Updated description.
-
-= 1.7 =
-* Change the bundle price.
-* Fixed responsive of get start.
-* Set the all heading in h2 tag.
-* Added hover effect on images.
-* Updated pot file.
+= 1.9 =
+* Changed getstarted.
 
 = 1.8 =
 * Added style variation.
@@ -188,18 +163,45 @@ Online Library is distributed under the terms of the GNU GPL
 * Updated rtl file.
 * Updated pot file.
 
-= 1.9 =
-* Changed getstarted.
+= 1.7 =
+* Change the bundle price.
+* Fixed responsive of get start.
+* Set the all heading in h2 tag.
+* Added hover effect on images.
+* Updated pot file.
 
-= 2.0 =
-* Updated Plugin Installation Step.
+= 1.6 =
+* Updated description.
 
-= 2.1 =
-* Updated Version.
+= 1.5 = 
+* Added single page no sidebar template.
+* Added single post sidebar on left template.
+* Added animation to front page.
+* Added hover effect on sidebar blogs.
+* Updated pot file.
 
-= 2.2 =
-* Added Admin Bar Function.
-* Updated Description.
+= 1.4 =
+* Resolved css bugs.
+* Added hover effect on single post image.
+* Added blog listing template.
+* In sidebar added page block.
+* Set the inner pages in container.
 
-= 2.3 =
-* Updated Theme.
+= 1.3 =
+* Changed Description.
+
+= 1.2 =
+* Resolved css bugs in inner pages.
+* Added animation to inner shop page image.
+* Updated the theme bundle text. 
+* In templates added blank page.
+
+= 1.1 =
+* Added getstart.
+* Added customizer.
+* Added footer link.
+* Added buy now button in menus.
+
+= 1.0 =
+* Initial version release.
+
